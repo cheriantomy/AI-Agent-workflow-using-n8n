@@ -3,7 +3,9 @@ AI Agent workflow for determining weather forecasts using n8n
 # AI Weather Assistant (n8n) for Business analysis and implications
 
 A chat-based AI agent that answers weather questions, explains what the
-forecast means for you, and suggests precautions and business actions.
+forecast means for you, and suggests precautions and business actions. 
+We can also predict any crop yield, bushfire happenings and electricity
+demand analysis also based on this weather implications.
 
 ## Problem
 Forecast apps show numbers; most people want to know "what should I do?"
